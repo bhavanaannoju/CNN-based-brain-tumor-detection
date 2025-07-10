@@ -1,25 +1,31 @@
-Brain Tumor Detection Using Convolutional Neural Network (CNN)\n
-This project uses deep learning to automatically detect brain tumors from MRI images using a Convolutional Neural Network (CNN). The model is trained on a publicly available dataset from Kaggle and achieves 97% accuracy in classification.\n
+## 🧠 Brain Tumor Detection Using Convolutional Neural Network (CNN)
 
-🚀 Features
-📷 MRI image preprocessing and normalization
-🧠 CNN model for tumor detection
-🎯 97% prediction accuracy on test data
-🧪 Dropout regularization to prevent overfitting
-🌐 Flask web app for easy image upload and result display
+This project uses deep learning to automatically detect brain tumors from MRI images using a Convolutional Neural Network (CNN). The model is trained on a publicly available dataset from Kaggle and achieves **97% accuracy** in classification.
 
-🛠️ Technologies Used
-Python 🐍
-TensorFlow / Keras
-Flask (for web interface)
-OpenCV / PIL (for image handling)
-Kaggle brain MRI dataset
+### 🚀 Features
 
-📊 How It Works
-User uploads an MRI image through the web app
-The image is preprocessed (resized, normalized)
-CNN model analyzes the image and predicts if a tumor is present
-The result is displayed instantly
+* 📷 MRI image preprocessing and normalization
+* 🧠 CNN model for tumor detection
+* 🎯 97% prediction accuracy on test data
+* 🧪 Dropout regularization to prevent overfitting
+* 🌐 Flask web app for easy image upload and result display
 
-📁 Dataset
-Kaggle Dataset: Brain MRI Images for Brain Tumor Detection
+### 🛠️ Technologies Used
+
+* Python 🐍
+* TensorFlow / Keras
+* Flask (for web interface)
+* OpenCV / PIL (for image handling)
+* Kaggle brain MRI dataset
+
+### 📊 How It Works
+
+1. User uploads an MRI image through the web app
+2. The image is preprocessed (resized, normalized)
+3. CNN model analyzes the image and predicts if a tumor is present
+4. The result is displayed instantly
+
+### 📁 Dataset
+
+Kaggle Dataset: [Brain MRI Images for Brain Tumor Detection](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)
+
