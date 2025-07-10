@@ -1,5 +1,5 @@
-Brain Tumor Detection Using Convolutional Neural Network (CNN)
-This project uses deep learning to automatically detect brain tumors from MRI images using a Convolutional Neural Network (CNN). The model is trained on a publicly available dataset from Kaggle and achieves 97% accuracy in classification.
+Brain Tumor Detection Using Convolutional Neural Network (CNN)\n
+This project uses deep learning to automatically detect brain tumors from MRI images using a Convolutional Neural Network (CNN). The model is trained on a publicly available dataset from Kaggle and achieves 97% accuracy in classification.\n
 
 🚀 Features
 📷 MRI image preprocessing and normalization
